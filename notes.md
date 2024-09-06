@@ -8,4 +8,31 @@ A statement is a type of instruction that causes the program to perform some act
 
 ## functions
 A function is a collection of statements that get executed sequentially (in order, from top to bottom).
+- Every C++ program must have a special function named main (all lower case letters). When the program is run, the statements inside of main are executed in sequential order.
+
+## syntax
+The rules that govern how sentences are constructed in a language is called syntax.
+
+## Comments: single line and multi-line
+// single time
+/* multi-line
+   more info here */
+
+### comment out code, do the following:
+- For VS Code users
+You can comment or uncomment a selection by pressing ctrl-/
+
+## summary
+    At the library, program, or function level, use comments to describe what.
+    Inside the library, program, or function, use comments to describe how.
+    At the statement level, use comments to describe why.
+
+## programs
+Programs are collections of instructions that manipulate data to produce a desired result.
+
+## objects and naming them
+An object is used to store a value in memory. A variable is an object that has a name (identifier).
+
+Naming our objects let us refer to them again later in the program.
+
 
