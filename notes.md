@@ -35,4 +35,12 @@ An object is used to store a value in memory. A variable is an object that has a
 
 Naming our objects let us refer to them again later in the program.
 
+## instance
+When the program is run (called runtime), the variable will be instantiated. Instantiation is a fancy word that means the 
+object will be created and assigned a memory address. 
+
+## data types
+C++, the type of an object must be known at compile-time (when the program is compiled), and that type can not be changed without recompiling the program. 
+
+
 
