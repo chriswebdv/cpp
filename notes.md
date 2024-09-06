@@ -42,5 +42,9 @@ object will be created and assigned a memory address.
 ## data types
 C++, the type of an object must be known at compile-time (when the program is compiled), and that type can not be changed without recompiling the program. 
 
+## initializations
+Prefer direct list initialization (or value initialization) for initializing your variables
+
+Initialize your variables upon creation.
 
 
